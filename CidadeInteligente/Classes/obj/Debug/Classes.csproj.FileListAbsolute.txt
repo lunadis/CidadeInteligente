@@ -1,0 +1,4 @@
+F:\CidadeInteligente\Classes\bin\Debug\Classes.dll
+F:\CidadeInteligente\Classes\bin\Debug\Classes.pdb
+F:\CidadeInteligente\Classes\obj\Debug\Classes.dll
+F:\CidadeInteligente\Classes\obj\Debug\Classes.pdb
