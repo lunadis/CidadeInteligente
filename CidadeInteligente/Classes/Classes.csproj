@@ -41,7 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\Cliente.cs" />
-    <Compile Include="Funcionario.cs" />
+    <Compile Include="Pfuncionario.cs" />
     <Compile Include="Pessoa.cs" />
     <Compile Include="PessoaDocumento.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

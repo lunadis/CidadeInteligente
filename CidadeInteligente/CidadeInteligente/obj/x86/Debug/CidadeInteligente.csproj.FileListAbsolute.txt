@@ -15,3 +15,16 @@ F:\CidadeInteligente\CidadeInteligente\obj\x86\Debug\CidadeInteligente.Propertie
 F:\CidadeInteligente\CidadeInteligente\obj\x86\Debug\CidadeInteligente.csproj.GenerateResource.Cache
 F:\CidadeInteligente\CidadeInteligente\obj\x86\Debug\CidadeInteligente.exe
 F:\CidadeInteligente\CidadeInteligente\obj\x86\Debug\CidadeInteligente.pdb
+F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\obj\x86\Debug\CidadeInteligente.exe
+F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\obj\x86\Debug\CidadeInteligente.pdb
+F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\bin\Debug\CidadeInteligente.exe
+F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\bin\Debug\CidadeInteligente.pdb
+F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\bin\Debug\Classes.dll
+F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\bin\Debug\Classes.pdb
+F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\obj\x86\Debug\CidadeInteligente.csprojResolveAssemblyReference.cache
+F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\obj\x86\Debug\CidadeInteligente.Cliente.resources
+F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\obj\x86\Debug\CidadeInteligente.Form1.resources
+F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\obj\x86\Debug\CidadeInteligente.Funcionario.resources
+F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\obj\x86\Debug\CidadeInteligente.Pessoas.resources
+F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\obj\x86\Debug\CidadeInteligente.Properties.Resources.resources
+F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\obj\x86\Debug\CidadeInteligente.csproj.GenerateResource.Cache

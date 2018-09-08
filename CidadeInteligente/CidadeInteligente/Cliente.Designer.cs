@@ -29,100 +29,33 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Cliente));
-            this.txbCNH = new System.Windows.Forms.TextBox();
-            this.lblCNH = new System.Windows.Forms.Label();
-            this.txbCTPS = new System.Windows.Forms.TextBox();
-            this.lblCTPS = new System.Windows.Forms.Label();
             this.txbCPF = new System.Windows.Forms.TextBox();
             this.lblCPF = new System.Windows.Forms.Label();
-            this.txbRG = new System.Windows.Forms.TextBox();
-            this.lblRG = new System.Windows.Forms.Label();
-            this.txbDtInclusao = new System.Windows.Forms.TextBox();
-            this.lblDtInclusao = new System.Windows.Forms.Label();
             this.lblTitulo = new System.Windows.Forms.Label();
             this.btnLimpar = new System.Windows.Forms.Button();
             this.btnSalvar = new System.Windows.Forms.Button();
+            this.btnPesquisar = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.lblNomeCliente = new System.Windows.Forms.Label();
+            this.lblCodigoCliente = new System.Windows.Forms.Label();
             this.SuspendLayout();
-            // 
-            // txbCNH
-            // 
-            this.txbCNH.Location = new System.Drawing.Point(113, 162);
-            this.txbCNH.Name = "txbCNH";
-            this.txbCNH.Size = new System.Drawing.Size(100, 20);
-            this.txbCNH.TabIndex = 24;
-            // 
-            // lblCNH
-            // 
-            this.lblCNH.AutoSize = true;
-            this.lblCNH.Location = new System.Drawing.Point(14, 165);
-            this.lblCNH.Name = "lblCNH";
-            this.lblCNH.Size = new System.Drawing.Size(33, 13);
-            this.lblCNH.TabIndex = 23;
-            this.lblCNH.Text = "CNH:";
-            // 
-            // txbCTPS
-            // 
-            this.txbCTPS.Location = new System.Drawing.Point(113, 138);
-            this.txbCTPS.Name = "txbCTPS";
-            this.txbCTPS.Size = new System.Drawing.Size(100, 20);
-            this.txbCTPS.TabIndex = 22;
-            // 
-            // lblCTPS
-            // 
-            this.lblCTPS.AutoSize = true;
-            this.lblCTPS.Location = new System.Drawing.Point(14, 141);
-            this.lblCTPS.Name = "lblCTPS";
-            this.lblCTPS.Size = new System.Drawing.Size(38, 13);
-            this.lblCTPS.TabIndex = 21;
-            this.lblCTPS.Text = "CTPS:";
             // 
             // txbCPF
             // 
-            this.txbCPF.Location = new System.Drawing.Point(113, 114);
+            this.txbCPF.Location = new System.Drawing.Point(90, 47);
             this.txbCPF.Name = "txbCPF";
-            this.txbCPF.Size = new System.Drawing.Size(100, 20);
+            this.txbCPF.Size = new System.Drawing.Size(110, 20);
             this.txbCPF.TabIndex = 20;
             // 
             // lblCPF
             // 
             this.lblCPF.AutoSize = true;
-            this.lblCPF.Location = new System.Drawing.Point(14, 114);
+            this.lblCPF.Location = new System.Drawing.Point(54, 50);
             this.lblCPF.Name = "lblCPF";
             this.lblCPF.Size = new System.Drawing.Size(30, 13);
             this.lblCPF.TabIndex = 19;
             this.lblCPF.Text = "CPF:";
-            // 
-            // txbRG
-            // 
-            this.txbRG.Location = new System.Drawing.Point(113, 87);
-            this.txbRG.Name = "txbRG";
-            this.txbRG.Size = new System.Drawing.Size(100, 20);
-            this.txbRG.TabIndex = 18;
-            // 
-            // lblRG
-            // 
-            this.lblRG.AutoSize = true;
-            this.lblRG.Location = new System.Drawing.Point(14, 92);
-            this.lblRG.Name = "lblRG";
-            this.lblRG.Size = new System.Drawing.Size(26, 13);
-            this.lblRG.TabIndex = 17;
-            this.lblRG.Text = "RG:";
-            // 
-            // txbDtInclusao
-            // 
-            this.txbDtInclusao.Location = new System.Drawing.Point(113, 61);
-            this.txbDtInclusao.Name = "txbDtInclusao";
-            this.txbDtInclusao.Size = new System.Drawing.Size(100, 20);
-            this.txbDtInclusao.TabIndex = 25;
-            // 
-            // lblDtInclusao
-            // 
-            this.lblDtInclusao.AutoSize = true;
-            this.lblDtInclusao.Location = new System.Drawing.Point(12, 64);
-            this.lblDtInclusao.Name = "lblDtInclusao";
-            this.lblDtInclusao.Size = new System.Drawing.Size(91, 13);
-            this.lblDtInclusao.TabIndex = 26;
-            this.lblDtInclusao.Text = "Data de Inclusão:";
             // 
             // lblTitulo
             // 
@@ -152,26 +85,70 @@
             this.btnSalvar.TabIndex = 28;
             this.btnSalvar.Text = "Salvar";
             this.btnSalvar.UseVisualStyleBackColor = true;
+            this.btnSalvar.Click += new System.EventHandler(this.btnSalvar_Click);
+            // 
+            // btnPesquisar
+            // 
+            this.btnPesquisar.Location = new System.Drawing.Point(77, 76);
+            this.btnPesquisar.Name = "btnPesquisar";
+            this.btnPesquisar.Size = new System.Drawing.Size(75, 23);
+            this.btnPesquisar.TabIndex = 30;
+            this.btnPesquisar.Text = "Pesquisar";
+            this.btnPesquisar.UseVisualStyleBackColor = true;
+            this.btnPesquisar.Click += new System.EventHandler(this.btnPesquisar_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(27, 120);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(38, 13);
+            this.label1.TabIndex = 31;
+            this.label1.Text = "Nome:";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(27, 145);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(21, 13);
+            this.label2.TabIndex = 32;
+            this.label2.Text = "ID:";
+            // 
+            // lblNomeCliente
+            // 
+            this.lblNomeCliente.AutoSize = true;
+            this.lblNomeCliente.Location = new System.Drawing.Point(97, 120);
+            this.lblNomeCliente.Name = "lblNomeCliente";
+            this.lblNomeCliente.Size = new System.Drawing.Size(35, 13);
+            this.lblNomeCliente.TabIndex = 33;
+            this.lblNomeCliente.Text = "label3";
+            // 
+            // lblCodigoCliente
+            // 
+            this.lblCodigoCliente.AutoSize = true;
+            this.lblCodigoCliente.Location = new System.Drawing.Point(97, 145);
+            this.lblCodigoCliente.Name = "lblCodigoCliente";
+            this.lblCodigoCliente.Size = new System.Drawing.Size(35, 13);
+            this.lblCodigoCliente.TabIndex = 34;
+            this.lblCodigoCliente.Text = "label4";
             // 
             // Cliente
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightGreen;
-            this.ClientSize = new System.Drawing.Size(238, 261);
+            this.ClientSize = new System.Drawing.Size(254, 271);
+            this.Controls.Add(this.lblCodigoCliente);
+            this.Controls.Add(this.lblNomeCliente);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.btnPesquisar);
             this.Controls.Add(this.btnLimpar);
             this.Controls.Add(this.btnSalvar);
             this.Controls.Add(this.lblTitulo);
-            this.Controls.Add(this.lblDtInclusao);
-            this.Controls.Add(this.txbDtInclusao);
-            this.Controls.Add(this.txbCNH);
-            this.Controls.Add(this.lblCNH);
-            this.Controls.Add(this.txbCTPS);
-            this.Controls.Add(this.lblCTPS);
             this.Controls.Add(this.txbCPF);
             this.Controls.Add(this.lblCPF);
-            this.Controls.Add(this.txbRG);
-            this.Controls.Add(this.lblRG);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Cliente";
@@ -184,18 +161,15 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox txbCNH;
-        private System.Windows.Forms.Label lblCNH;
-        private System.Windows.Forms.TextBox txbCTPS;
-        private System.Windows.Forms.Label lblCTPS;
         private System.Windows.Forms.TextBox txbCPF;
         private System.Windows.Forms.Label lblCPF;
-        private System.Windows.Forms.TextBox txbRG;
-        private System.Windows.Forms.Label lblRG;
-        private System.Windows.Forms.TextBox txbDtInclusao;
-        private System.Windows.Forms.Label lblDtInclusao;
         private System.Windows.Forms.Label lblTitulo;
         private System.Windows.Forms.Button btnLimpar;
         private System.Windows.Forms.Button btnSalvar;
+        private System.Windows.Forms.Button btnPesquisar;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label lblNomeCliente;
+        private System.Windows.Forms.Label lblCodigoCliente;
     }
 }

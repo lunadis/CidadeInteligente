@@ -2,3 +2,7 @@ F:\CidadeInteligente\Classes\bin\Debug\Classes.dll
 F:\CidadeInteligente\Classes\bin\Debug\Classes.pdb
 F:\CidadeInteligente\Classes\obj\Debug\Classes.dll
 F:\CidadeInteligente\Classes\obj\Debug\Classes.pdb
+F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\Classes\bin\Debug\Classes.dll
+F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\Classes\bin\Debug\Classes.pdb
+F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\Classes\obj\Debug\Classes.dll
+F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\Classes\obj\Debug\Classes.pdb

@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Classes
 {
-    public class Funcionario
+    public class Pfuncionario
     {
         public int cdFuncionario { get; set; }
         public int cdPessoa { get; set; }
