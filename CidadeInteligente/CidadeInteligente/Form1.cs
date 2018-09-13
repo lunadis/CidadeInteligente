@@ -37,5 +37,19 @@ namespace CidadeInteligente
             telaCadCliente.MdiParent = this;
             telaCadCliente.Show();
         }
+
+        private void pessoaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ConsultarPessoa conPessoa = new ConsultarPessoa();
+            conPessoa.MdiParent = this;
+            conPessoa.Show();
+        }
+
+        private void clienteToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ConsultarCliente conCliente = new ConsultarCliente();
+            conCliente.MdiParent = this;
+            conCliente.Show();
+        }
     }
 }

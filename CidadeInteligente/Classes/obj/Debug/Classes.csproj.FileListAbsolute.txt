@@ -6,3 +6,7 @@ F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\Classes\bin\Debug\Classes
 F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\Classes\bin\Debug\Classes.pdb
 F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\Classes\obj\Debug\Classes.dll
 F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\Classes\obj\Debug\Classes.pdb
+D:\projetos\Csharp\CidadeInteligente\CidadeInteligente\Classes\bin\Debug\Classes.dll
+D:\projetos\Csharp\CidadeInteligente\CidadeInteligente\Classes\bin\Debug\Classes.pdb
+D:\projetos\Csharp\CidadeInteligente\CidadeInteligente\Classes\obj\Debug\Classes.dll
+D:\projetos\Csharp\CidadeInteligente\CidadeInteligente\Classes\obj\Debug\Classes.pdb

@@ -11,3 +11,17 @@ F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\obj\x86
 F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\obj\x86\Release\CidadeInteligente.csproj.GenerateResource.Cache
 F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\obj\x86\Release\CidadeInteligente.exe
 F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\obj\x86\Release\CidadeInteligente.pdb
+D:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\bin\Release\CidadeInteligente.exe
+D:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\bin\Release\CidadeInteligente.pdb
+D:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\bin\Release\Classes.dll
+D:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\bin\Release\Classes.pdb
+D:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\obj\x86\Release\CidadeInteligente.csprojResolveAssemblyReference.cache
+D:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\obj\x86\Release\CidadeInteligente.Cliente.resources
+D:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\obj\x86\Release\CidadeInteligente.ConsultarPessoa.resources
+D:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\obj\x86\Release\CidadeInteligente.Form1.resources
+D:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\obj\x86\Release\CidadeInteligente.Funcionario.resources
+D:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\obj\x86\Release\CidadeInteligente.Pessoas.resources
+D:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\obj\x86\Release\CidadeInteligente.Properties.Resources.resources
+D:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\obj\x86\Release\CidadeInteligente.csproj.GenerateResource.Cache
+D:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\obj\x86\Release\CidadeInteligente.exe
+D:\projetos\Csharp\CidadeInteligente\CidadeInteligente\CidadeInteligente\obj\x86\Release\CidadeInteligente.pdb
